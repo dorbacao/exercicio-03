@@ -1,0 +1,15 @@
+C:\Projetos\git\exercicio-03\AtendimentoHospitalar\bin\Debug\net8.0\AtendimentoHospitalar.exe
+C:\Projetos\git\exercicio-03\AtendimentoHospitalar\bin\Debug\net8.0\AtendimentoHospitalar.deps.json
+C:\Projetos\git\exercicio-03\AtendimentoHospitalar\bin\Debug\net8.0\AtendimentoHospitalar.runtimeconfig.json
+C:\Projetos\git\exercicio-03\AtendimentoHospitalar\bin\Debug\net8.0\AtendimentoHospitalar.dll
+C:\Projetos\git\exercicio-03\AtendimentoHospitalar\bin\Debug\net8.0\AtendimentoHospitalar.pdb
+C:\Projetos\git\exercicio-03\AtendimentoHospitalar\obj\Debug\net8.0\AtendimentoHospitalar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\git\exercicio-03\AtendimentoHospitalar\obj\Debug\net8.0\AtendimentoHospitalar.AssemblyInfoInputs.cache
+C:\Projetos\git\exercicio-03\AtendimentoHospitalar\obj\Debug\net8.0\AtendimentoHospitalar.AssemblyInfo.cs
+C:\Projetos\git\exercicio-03\AtendimentoHospitalar\obj\Debug\net8.0\AtendimentoHospitalar.csproj.CoreCompileInputs.cache
+C:\Projetos\git\exercicio-03\AtendimentoHospitalar\obj\Debug\net8.0\AtendimentoHospitalar.sourcelink.json
+C:\Projetos\git\exercicio-03\AtendimentoHospitalar\obj\Debug\net8.0\AtendimentoHospitalar.dll
+C:\Projetos\git\exercicio-03\AtendimentoHospitalar\obj\Debug\net8.0\refint\AtendimentoHospitalar.dll
+C:\Projetos\git\exercicio-03\AtendimentoHospitalar\obj\Debug\net8.0\AtendimentoHospitalar.pdb
+C:\Projetos\git\exercicio-03\AtendimentoHospitalar\obj\Debug\net8.0\AtendimentoHospitalar.genruntimeconfig.cache
+C:\Projetos\git\exercicio-03\AtendimentoHospitalar\obj\Debug\net8.0\ref\AtendimentoHospitalar.dll

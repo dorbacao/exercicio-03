@@ -1,0 +1,85 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Marcus Dorbacao\\source\\repos\\exercicio05\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A245EFA4-30F4-4462-AB99-9EDFA26C9ECE}|exercicio05\\exercicio05.csproj|c:\\users\\marcus dorbacao\\source\\repos\\exercicio05\\exercicio05\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A245EFA4-30F4-4462-AB99-9EDFA26C9ECE}|exercicio05\\exercicio05.csproj|solutionrelative:exercicio05\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A245EFA4-30F4-4462-AB99-9EDFA26C9ECE}|exercicio05\\exercicio05.csproj|c:\\users\\marcus dorbacao\\source\\repos\\exercicio05\\exercicio05\\atendimento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A245EFA4-30F4-4462-AB99-9EDFA26C9ECE}|exercicio05\\exercicio05.csproj|solutionrelative:exercicio05\\atendimento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A245EFA4-30F4-4462-AB99-9EDFA26C9ECE}|exercicio05\\exercicio05.csproj|c:\\users\\marcus dorbacao\\source\\repos\\exercicio05\\exercicio05\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A245EFA4-30F4-4462-AB99-9EDFA26C9ECE}|exercicio05\\exercicio05.csproj|solutionrelative:exercicio05\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A245EFA4-30F4-4462-AB99-9EDFA26C9ECE}|exercicio05\\exercicio05.csproj|c:\\users\\marcus dorbacao\\source\\repos\\exercicio05\\exercicio05\\hospital.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A245EFA4-30F4-4462-AB99-9EDFA26C9ECE}|exercicio05\\exercicio05.csproj|solutionrelative:exercicio05\\hospital.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Atendimento.cs",
+              "DocumentMoniker": "C:\\Users\\Marcus Dorbacao\\source\\repos\\exercicio05\\exercicio05\\Atendimento.cs",
+              "RelativeDocumentMoniker": "exercicio05\\Atendimento.cs",
+              "ToolTip": "C:\\Users\\Marcus Dorbacao\\source\\repos\\exercicio05\\exercicio05\\Atendimento.cs",
+              "RelativeToolTip": "exercicio05\\Atendimento.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T19:22:20.443Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Cliente.cs",
+              "DocumentMoniker": "C:\\Users\\Marcus Dorbacao\\source\\repos\\exercicio05\\exercicio05\\Cliente.cs",
+              "RelativeDocumentMoniker": "exercicio05\\Cliente.cs",
+              "ToolTip": "C:\\Users\\Marcus Dorbacao\\source\\repos\\exercicio05\\exercicio05\\Cliente.cs",
+              "RelativeToolTip": "exercicio05\\Cliente.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAqwBIAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T18:34:33.427Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Hospital.cs",
+              "DocumentMoniker": "C:\\Users\\Marcus Dorbacao\\source\\repos\\exercicio05\\exercicio05\\Hospital.cs",
+              "RelativeDocumentMoniker": "exercicio05\\Hospital.cs",
+              "ToolTip": "C:\\Users\\Marcus Dorbacao\\source\\repos\\exercicio05\\exercicio05\\Hospital.cs",
+              "RelativeToolTip": "exercicio05\\Hospital.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAkwBQAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T18:29:23.068Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Marcus Dorbacao\\source\\repos\\exercicio05\\exercicio05\\Program.cs",
+              "RelativeDocumentMoniker": "exercicio05\\Program.cs",
+              "ToolTip": "C:\\Users\\Marcus Dorbacao\\source\\repos\\exercicio05\\exercicio05\\Program.cs",
+              "RelativeToolTip": "exercicio05\\Program.cs",
+              "ViewState": "AgIAADcAAAAAAAAAAAArwEIAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T19:00:44.091Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
